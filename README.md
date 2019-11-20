@@ -4,7 +4,7 @@
 
 AWS CDK is a software development framework for defining cloud infrastructure in code and provisioning it through AWS CloudFormation. 
 
-When working with AWS CDK, many customers want to know how to check in the code into a code versioning tool, and automate the provisioning of the infrastructure without having to synthesize the code into CloudFormation. This article explains how to do this via AWS CodePipeline and AWS CodeDeploy.
+When working with AWS CDK, many customers want to know how to check in the code into a code versioning tool, and automate the provisioning of the infrastructure without having to synthesize the code into CloudFormation. This article explains how to do this via AWS CodePipeline and AWS CodeBuild.
 
 ## AWS CodePipeline
 
